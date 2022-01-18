@@ -35,3 +35,4 @@ Harjoitellaan branchien käyttöä
 * 33bdcfb Init
 ```
 
+**!** _Main branch renamed to `main` before pushing repo to GitHub. Hence, log contains `master`_ **!**
